@@ -1,3 +1,5 @@
+from newbuff import newBuff
+
 def diamond(leg, T, F=' '):
   buff = newBuff(leg, F)
 

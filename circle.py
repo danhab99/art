@@ -1,3 +1,4 @@
+from newbuff import newBuff
 
 def circle(leg, T, F=' '):
   buff = newBuff(leg, F)
